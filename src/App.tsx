@@ -54,7 +54,7 @@ function App() {
             Haga click, para proceder a la felicitación
           </p>
           <div className="text-xs sm:text-sm text-gray-500 animate-glow">
-            {'{'} con_amor: <b>sistemas</b> {'}'}
+            {'{'} Atentamente: <b>Sistemas y Desarrollo</b> {'}'}
           </div>
           <Sparkles className="absolute top-4 right-4 w-4 h-4 sm:w-6 sm:h-6 text-yellow-400 animate-float" />
           <Sparkles className="absolute bottom-4 left-4 w-4 h-4 sm:w-6 sm:h-6 text-blue-400 animate-float" />

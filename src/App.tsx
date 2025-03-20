@@ -120,7 +120,7 @@ function App() {
             </div>
 
             {/* Main Content */}
-            <div className="flex-1 p-2 sm:p-4 font-mono text-xs sm:text-sm md:text-base overflow-x-auto">
+            <div className="flex-1 p-2 sm:p-4 font-mono text-xs sm:text-sm md:text-base">
               <div className={`space-y-4 transition-opacity duration-500 ${showContent ? 'opacity-100' : 'opacity-0'}`}>
                 <div className="hover:translate-x-2 transition-transform">
                   <span className="text-[#569cd6] animate-glow">class</span>
